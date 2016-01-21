@@ -1,0 +1,28 @@
+name: Wayne Choi
+favicon: null
+layout_spectrum: 0.7380132542457432
+typography_spectrum: 0.6556219111662358
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.15141874179244041
+  lightness: 0.9518925780430436
+  saturation: 0.9106113135349005
+  rhythmicContrast: 0.6364477227907628
+purpose: []
